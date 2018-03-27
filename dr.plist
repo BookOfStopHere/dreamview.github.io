@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://github.com/BookOfStopHere/ipa/blob/v1.0/icon.jpg</string>
+                   <string>https://raw.githubusercontent.com/BookOfStopHere/dreamview.github.io/v1.0/icon.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://github.com/BookOfStopHere/ipa/blob/v1.0/icon.jpg</string>
+                   <string>https://raw.githubusercontent.com/BookOfStopHere/dreamview.github.io/v1.0/icon1.png</string>
                </dict>
           </array><key>metadata</key>
            <dict>
