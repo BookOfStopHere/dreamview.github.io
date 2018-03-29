@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://github.com/BookOfStopHere/dreamview.github.io/blob/master/DreamView.ipa?raw=true</string>
+                   <string>http://192.168.2.1/DreamView.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
