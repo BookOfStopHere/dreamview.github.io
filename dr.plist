@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://alex.sarp.top:8090/DreamView2018-04-16-20-47-28.ipa</string>
+                   <string>http://alex.sarp.top:8090/DreamView2018-06-04-10-39-51.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,7 +32,7 @@
           </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.iqiyi.news.ent</string>
+               <string>com.dreamview.app</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
